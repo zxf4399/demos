@@ -1,0 +1,11 @@
+{
+  "name": "react18",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "zxf4399",
+  "scripts": {},
+  "engines": {
+    "node": "18.20.4",
+    "pnpm": "9.15.1"
+  }
+}
