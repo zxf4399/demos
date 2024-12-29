@@ -24,4 +24,7 @@ module.exports = {
     path: path.join(__dirname, "dist"),
   },
   plugins: [new HtmlWebpackPlugin()],
+  resolve: {
+    extensions: [".ts", ".tsx", ".js"],
+  }
 };
